@@ -1,0 +1,6 @@
+pymupdf
+pdfplumber
+scikit-learn
+numpy
+opencv-python
+openai
