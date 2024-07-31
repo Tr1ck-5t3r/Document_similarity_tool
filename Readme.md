@@ -21,7 +21,6 @@ The project uses cosine similarity and Jaccard similarity to compare documents. 
 ## Tech Stack
 
 - Python
-- Numpy
 - fitz
 - pdfplumber
 - cosine_similarity
